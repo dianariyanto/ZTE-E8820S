@@ -5,7 +5,7 @@ Custom firmware for ZTE E8220S based on official openwrt source
 
 ## Default login
 ```
-URL = 192.168.11.1
+URL = 192.168.1.1
 user = root
 no password, just hit enter
 ```
